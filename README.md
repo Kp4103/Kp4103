@@ -5,3 +5,16 @@
 </h1>
 
 <h3 align="center">A passionate AI&ML enthusiast from India! <sub>IN</sub></h3>
+
+<br/>
+
+<div align="center">
+
+🔭I'm currently working on **a mental wellness app**
+
+🌱I'm currently learning **Flutter, Tailwind, JS**
+
+💭Ask me about **HTML, CSS, Python.... [here](https://github.com/Kp4103/Kp4103/issues)**
+
+</div>
+
