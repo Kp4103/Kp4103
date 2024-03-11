@@ -51,3 +51,8 @@
   <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,c,cpp,codepen,css,dart,discord,figma,firebase,flutter,github,gmail,html,instagram,java,js,linkedin,mongodb,mysql,php,pycharm,py,pytorch,tensorflow,vscode,&perline=13" /><br>
   </a>
 </div>
+
+<div align="center">
+  <h2>🐍 My contributions 🐍</h2>
+  
+</div>
