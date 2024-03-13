@@ -55,5 +55,9 @@
 <div align="center">
   <h2>🐍 My contributions 🐍</h2>
 
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Kp4103/Kp4103/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kp4103/Kp4103/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kp4103/Kp4103/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Kp4103/Kp4103/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
