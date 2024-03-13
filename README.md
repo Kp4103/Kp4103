@@ -61,3 +61,12 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Kp4103/Kp4103/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+
+<h2 align="center"> ⚡Stats⚡ </h2>
+<br>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kp4103&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" /></a>
+  <a hred="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kp4103&show_icons=true&theme=transparent"</a>
+</div>
