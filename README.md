@@ -4,9 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there+!%F0%9F%91%8B;I'm+Kunal+Pawar!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate AI&ML enthusiast from India! <sub>IN</sub></h3>
 
-<br/>
+<br/>![Hi, I'm Kunal! Al   ML Developer, Always exploring new horizons  (3)](https://github.com/Kp4103/Kp4103/assets/11766476/e00056a8-fc47-4aba-b47f-61e68d4d42a9)
 
 <div align="center">
 
