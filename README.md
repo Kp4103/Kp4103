@@ -66,8 +66,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cryocreza"></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kp4103&theme=github-dark-blue&hide_border=false" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=cryocreza&theme=transparent"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kp4103&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Kp4103&show_icons=true&theme=transparent"</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kp4103&layout=donut&title_color=ff6f00&text_color=585858&bg_color=00000000"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kp4103&layout=donut&theme=transparent"></a>
 </div>
